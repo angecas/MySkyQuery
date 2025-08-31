@@ -1,0 +1,71 @@
+    [
+      {
+        "alias": null,
+        "alternateName": null,
+        "code": "OPO",
+        "countryAlias": null,
+        "countryCode": "PT",
+        "countryGroupCode": "0",
+        "countryGroupName": "EU/EEA",
+        "countryName": "Portugal",
+        "latitude": "561837N",
+        "longitude": "0103705E",
+        "markets": [
+          { "code": "AGP" },
+          { "code": "ALC" },
+          { "code": "GRO" },
+          { "code": "PMI" },
+          { "code": "STN" }
+        ],
+        "mobileBoardingPass": true,
+        "name": "Porto",
+        "notices": null,
+        "timeZoneCode": "PT"
+      },
+      {
+        "alias": null,
+        "alternateName": null,
+        "code": "BCN",
+        "countryAlias": null,
+        "countryCode": "ES",
+        "countryGroupCode": "0",
+        "countryGroupName": "EU/EEA",
+        "countryName": "Spain",
+        "latitude": "411851N",
+        "longitude": "0020939E",
+        "markets": [
+          { "code": "AGP" },
+          { "code": "ALC" },
+          { "code": "GRO" },
+          { "code": "PMI" },
+          { "code": "STN" }
+        ],
+        "mobileBoardingPass": true,
+        "name": "Barcelona",
+        "notices": null,
+        "timeZoneCode": "ES"
+      },
+      {
+        "alias": null,
+        "alternateName": null,
+        "code": "AAR",
+        "countryAlias": null,
+        "countryCode": "DK",
+        "countryGroupCode": "0",
+        "countryGroupName": "EU/EEA",
+        "countryName": "Denmark",
+        "latitude": "561837N",
+        "longitude": "0103705E",
+        "markets": [
+          { "code": "AGP" },
+          { "code": "ALC" },
+          { "code": "GRO" },
+          { "code": "PMI" },
+          { "code": "STN" }
+        ],
+        "mobileBoardingPass": true,
+        "name": "Aarhus",
+        "notices": null,
+        "timeZoneCode": "DK"
+      }
+    ]

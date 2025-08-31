@@ -1,0 +1,136 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "· %@" : {
+
+    },
+    "#%@" : {
+
+    },
+    "%@ - %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ - %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "available_flights" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Available Flights"
+          }
+        }
+      }
+    },
+    "Duration: %@" : {
+
+    },
+    "Error" : {
+
+    },
+    "error_same_origin_destination" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The origin and destination stations cannot be the same"
+          }
+        }
+      }
+    },
+    "Info" : {
+
+    },
+    "no_flights_available" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No flights available"
+          }
+        }
+      }
+    },
+    "no_trip_info" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No trip information available"
+          }
+        }
+      }
+    },
+    "Operation completed successfully." : {
+
+    },
+    "search_Availbale_station" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search Arrival Station"
+          }
+        }
+      }
+    },
+    "search_flight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search flight"
+          }
+        }
+      }
+    },
+    "seats_left" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seats left: %lld"
+          }
+        }
+      }
+    },
+    "select_flight_date" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Flight Date"
+          }
+        }
+      }
+    },
+    "some_error" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something wrong happened."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
